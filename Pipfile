@@ -16,6 +16,8 @@ numpy = "*"
 scikit-learn = "*"
 sklearn = "*"
 psycopg2 = "*"
+heroku = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
